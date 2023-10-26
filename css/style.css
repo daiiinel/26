@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+body{
+    background: linear-gradient(to right, rgb(3, 3, 26), rgb(19, 12, 12));
+}
+h1,h2,h3,h4,h5{
+    text-align: center;
+    text-decoration: underline;
+ text-decoration-color: rgb(60, 107, 147);
+    color: rgb(130, 185, 232);
+    font-family:'Courier New', Courier, monospace;
+}
+p,h2, ul, li, h3,h4,h5{
+    color: aliceblue;
+    text-decoration: none;
+    text-align: justify;
+    margin: 5px 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
+}
